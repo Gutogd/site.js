@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to top left, blue, cyan,white);
+    color:black;
+    height: 100vh;
+    margin: 32px;
+    font-size: large;
+    font-family: 'Segoe UI';
+    text-align: center;
+}
+
+.config2{
+    font-size: larger;
+    color: rgb(5, 5, 5);
+}
+
+
+.config{
+    background-color: rgb(156, 154, 154);
+    color: rgb(0, 0, 0);
+    border-radius: 12px;
+    height: 48px;
+    text-align: center;
+    font-size: larger;
+}
+
+button{
+    background-color: rgb(211, 193, 193);
+    color: black;
+    height: 36px;
+    border-radius: 12px;
+    border: 6px black 
+}
